@@ -8,6 +8,9 @@ contributor:
     - Corbett, Bertha L.
     gutenberg_agent_id: '43127'
     url: http://www.gutenberg.org/2009/agents/43127
+covers:
+- cover_type: archival
+  image_path: 51599-h/images/cover.jpg
 creator:
   author:
     agent_name: Gordon, Elizabeth
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '44043'
     url: http://www.gutenberg.org/2009/agents/44043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51599#What-We-Saw-at-Madame-World-s-Fair-Being-a-Series-of-Letters-from-the-Twins-at-the-Panama-Pac_
 gutenberg_issued: '2016-03-29'
 gutenberg_type: Text
 identifiers:
